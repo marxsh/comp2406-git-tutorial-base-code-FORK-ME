@@ -2,4 +2,8 @@ extends layout
 
 block content
   h1= title
-  p Congrats! Now go back to the tutorial
+<<<<<<< HEAD
+  p COMP 2404 is the best course!
+=======
+  p OMAR THE TUTORIAL IS CONFUSING 
+>>>>>>> master
